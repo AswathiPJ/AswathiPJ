@@ -1,8 +1,8 @@
 <h1 align="center">Hi 
   <img  alt="Coding" width="40" height="40" src="https://user-images.githubusercontent.com/74038190/214644152-52f47eb3-5e31-4f47-8758-05c9468d5596.gif">
   , I'm Aswathi P J</h1>
-<h3 align="center">A passionate Web Developer <br>
-  currently pursuing B.Tech in Computer Science and Engineering at Rajiv Gandhi Institute Of Technology Kottayam</h3>
+<h3 align="center">A passionate Web Developer ,
+  currently pursuing B.Tech in Computer Science and Engineering <br>at Rajiv Gandhi Institute Of Technology Kottayam</h3>
 <br>
 <img align="right" alt="Coding" width="220" height="250" src="./image2.gif">
 
@@ -43,8 +43,8 @@
   <!---
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=aswathipj&show_icons=true&locale=en&layout=compact" alt="aswathipj" /></p>--->
   
-<p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=aswathipj&show_icons=true&locale=en&include_all_commits=true" alt="aswathipj" />
-<img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=aswathipj&" alt="aswathipj" /></p>
+<p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=aswathipj&show_icons=true&locale=en&include_all_commits=true" alt="aswathipj" /></p>
+<p><img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=aswathipj&" alt="aswathipj" /></p>
 
 <a href="https://github.com/aswathipj" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aswathipj&langs_count=7&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
 
