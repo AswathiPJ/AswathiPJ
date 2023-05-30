@@ -1,7 +1,7 @@
 <h1 align="center">Hi 
   <img  alt="Coding" width="40" height="40" src="https://user-images.githubusercontent.com/74038190/214644152-52f47eb3-5e31-4f47-8758-05c9468d5596.gif">
   , I'm Aswathi P J</h1>
-<h3 align="center">A B.Tech Computer Science student at Rajiv Gandhi Institute Of Technology Kottayam</h3>
+<h3 align="center">A passionate Web Developer ,currently pursuing B.Tech in Computer Science and Engineering at Rajiv Gandhi Institute Of Technology Kottayam</h3>
 <br>
 <img align="right" alt="Coding" width="220" height="250" src="./image2.gif">
 
