@@ -2,7 +2,7 @@
   <img  alt="Coding" width="40" height="40" src="https://user-images.githubusercontent.com/74038190/214644152-52f47eb3-5e31-4f47-8758-05c9468d5596.gif">
   , I'm Aswathi P J</h1>
 <h3 align="center">A B.Tech Computer Science student at Rajiv Gandhi Institute Of Technology Kottayam</h3>
-<img align="right" alt="Coding" width="260" height="280" src="./image2.gif">
+<img align="right" alt="Coding" width="220" height="250" src="./image2.gif">
 
 - 🌱 I’m currently learning **MERN stack**
 
@@ -34,8 +34,10 @@
   <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a>    <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> 
   <a href="https://www.oracle.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/> </a> 
 <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> 
+  <br>
+<br>
+  
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=aswathipj&show_icons=true&locale=en&layout=compact" alt="aswathipj" /></p>
-
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=aswathipj&show_icons=true&locale=en&include_all_commits=true" alt="aswathipj" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=aswathipj&" alt="aswathipj" /></p>
