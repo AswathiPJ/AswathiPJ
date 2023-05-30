@@ -2,6 +2,7 @@
   <img  alt="Coding" width="40" height="40" src="https://user-images.githubusercontent.com/74038190/214644152-52f47eb3-5e31-4f47-8758-05c9468d5596.gif">
   , I'm Aswathi P J</h1>
 <h3 align="center">A B.Tech Computer Science student at Rajiv Gandhi Institute Of Technology Kottayam</h3>
+<br>
 <img align="right" alt="Coding" width="220" height="250" src="./image2.gif">
 
 - 🌱 I’m currently learning **MERN stack**
@@ -9,12 +10,14 @@
 - 💬 Ask me about **React, javaScript,Python.....**
 
 - 📫 How to reach me **aswathipjsreenilayam@gmail.com**
-
+<br>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/aswathi-p-j-585002153" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="aswathi p j" height="30" width="40" /></a>
 <a href="https://instagram.com/aswathi_p_j" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="aswathi_p_j" height="30" width="40" /></a>
 </p>
+<br>
+
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
