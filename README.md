@@ -44,9 +44,9 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=aswathipj&show_icons=true&locale=en&layout=compact" alt="aswathipj" /></p>--->
   
 <p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=aswathipj&show_icons=true&locale=en&include_all_commits=true" alt="aswathipj" /></p>
-<p><img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=aswathipj&" alt="aswathipj" /></p>
+<p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=aswathipj&" alt="aswathipj" /></p>
 
-<a href="https://github.com/aswathipj" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aswathipj&langs_count=7&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
+<a href="https://github.com/aswathipj" align="right"><img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aswathipj&langs_count=7&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
 
 <!---
 <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=aswathipj&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
