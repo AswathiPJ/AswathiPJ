@@ -2,10 +2,10 @@
   <img  alt="Coding" width="40" height="40" src="https://user-images.githubusercontent.com/74038190/214644152-52f47eb3-5e31-4f47-8758-05c9468d5596.gif">
   , I'm Aswathi P J</h1>
 <h3 align="center">A Computer Science engineering student at Rajiv Gandhi Institute Of Technology Kottayam</h3>
-
+<img align="right" alt="Coding" width="400" src="file:///E:/Downloads/output-onlinegiftools.gif">
 - 🌱 I’m currently learning **MERN stack**
 
-- 💬 Ask me about **React,javaScript.....**
+- 💬 Ask me about **React, javaScript.....**
 
 - 📫 How to reach me **aswathipjsreenilayam@gmail.com**
 
